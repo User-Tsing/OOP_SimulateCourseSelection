@@ -8,6 +8,6 @@ PS:
 List of participants:         
 Checked by STAssn;         
 MFC: STAssn, Y Chu;       
-UI&Class: C Ch'ang;
-Other partners: H Ch'ang(C), C Shih
+UI&Class: C Ch'ang;         
+Other partners: H Ch'ang(C), C Shih       
 （为避免不必要的麻烦，以上均为化名）
